@@ -86,9 +86,7 @@ I am a **Full Stack Developer** with strong expertise in **MERN Stack (MongoDB, 
 
 ## 📊 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=react&hide_border=true"/>
-</p>
+HTML CSS JS JAVA DART SQL C++ PYTHON 
 
 ---
 
