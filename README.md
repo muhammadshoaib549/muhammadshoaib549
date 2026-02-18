@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me (ATS Optimized)
+## 🧠 About Me 
 
 I am a **Full Stack Developer** with strong expertise in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**,  
 **Next.js**, and **Flutter**. I specialize in building **scalable, high-performance, secure web and mobile applications**.
