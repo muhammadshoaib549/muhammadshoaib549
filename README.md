@@ -1,13 +1,112 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=Shoaib%20|%20Mern%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
-<h1 align="center">Hi 👋, I'm Shoaib </h1>
-<h3 align="center"> | MERN Stack | Next.js | Flutter</h3>
+<!-- ================= TYPING INTRO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Building+Scalable+Applications" />
+</p>
+
+---
+
+# 👋 Hi, I'm Shoaib  
+
+💻 Full Stack Developer  
+🚀 MERN | Next.js | Flutter  
+🌍 Building Scalable Web & Mobile Apps  
+
+---
+
+## 🔥 Daily Motivation
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔹 Expert in MERN Stack  
+- 🔹 Building REST APIs & Secure Auth Systems  
+- 🔹 SEO Optimized Next.js Apps  
+- 🔹 Clean UI / Responsive Designs  
+- 🔹 Production Deployment (Vercel, VPS)
+
+💼 Available for Freelance | Remote | Full-Time  
+
+---
+
+# 🛠 Tech Stack
+
+## 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+</p>
+
+## ⚙ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40"/>
+</p>
+
+## 🗄 Database
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
+
+## 📱 Mobile
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+</p>
+
+## 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="40"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=react&hide_border=true" height="150"/>
+</p>
+
+---
+
+# 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/shabyhere">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -18,104 +117,10 @@
 
 ---
 
-## 🧠 About Me 
+# 🚀 Let’s Build Something Powerful
 
-I am a **Full Stack Developer** with strong expertise in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**,  
-**Next.js**, and **Flutter**. I specialize in building **scalable, high-performance, secure web and mobile applications**.
+⭐ Clean Code  
+⭐ Scalable Architecture  
+⭐ On-Time Delivery  
 
-✔ RESTful APIs  
-✔ Authentication & Authorization  
-✔ Scalable Backend Architectures  
-✔ Responsive UI/UX  
-✔ Production-ready Deployments  
-
-💼 **Available for Freelance | Remote | Full-Time Roles**
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
----
-
-## 💼 Freelance-Focused Services
-
-✔ Full Stack Web Applications  
-✔ MERN Stack Projects  
-✔ Next.js SEO-Optimized Websites  
-✔ REST API Development  
-✔ Admin Dashboards  
-✔ SaaS Platforms  
-✔ Flutter Mobile Apps  
-✔ Bug Fixing & Optimization  
-
-> 💡 **Clean Code | Scalable Systems | On-Time Delivery**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" height="165"/>
-</p>
-
----
-
-## 📊 Top Languages
-
-HTML CSS JS JAVA DART SQL C++ PYTHON 
-
----
-
-## 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/shabyhere  
-- 📱 **WhatsApp:** +92 305 3022216  
-
----
-
-## 🚀 Let’s Work Together
-
-If you're looking for a **MERN / Next.js / Flutter developer**,  
-let’s build something **powerful, scalable, and impactful**.
-
-⭐ Don’t forget to star repositories you like!
+> “Consistency beats motivation. Show up every single day.”
