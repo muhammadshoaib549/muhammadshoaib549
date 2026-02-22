@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Shoaib  
 
-💻 Full Stack Developer  
+💻 Mern Stack Developer  
 🚀 MERN | Next.js | Flutter  
 🌍 Building Scalable Web & Mobile Apps  
 
