@@ -20,14 +20,16 @@
 
 ## 🔥 Daily Motivation
 
+## 🔥 Daily Motivation
+
 <p align="center">
   <!-- Programming Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming&cacheSeconds=36000" />
 </p>
 
 <p align="center">
-  <!-- Motivational Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=motivational&cacheSeconds=36000" />
+  <!-- Motivational Quote (general, not software) -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=life&cacheSeconds=36000" />
 </p>
 
 ---
