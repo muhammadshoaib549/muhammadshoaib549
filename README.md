@@ -87,11 +87,11 @@
 # 🧩 Contribution Graph — Updated Daily
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&theme=react-dark&hide_border=true&area=true&custom_title=Shoaib's%20Daily%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Shoaib's%20Daily%20Contribution%20Graph" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/muhammadshoaib549" alt="Shoaib's Daily GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/36BCF7/muhammadshoaib549" alt="Shoaib's Daily GitHub Contribution Heatmap" />
 </p>
 
 ---
