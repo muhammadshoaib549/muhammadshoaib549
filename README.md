@@ -12,9 +12,9 @@
 
 # 👋 Hi, I'm Shoaib
 
-💻 MERN Stack Developer
-🚀 MERN | Next.js | Flutter
-🌍 Building Scalable Web & Mobile Apps
+💻 MERN Stack Developer  
+🚀 MERN | Next.js | Flutter  
+🌍 Building Scalable Web & Mobile Apps  
 
 ---
 
@@ -32,13 +32,13 @@
 
 ## 🧠 About Me
 
-- 🔹 Expert in MERN Stack
-- 🔹 Building REST APIs & Secure Auth Systems
-- 🔹 SEO Optimized Next.js Apps
-- 🔹 Clean UI / Responsive Designs
-- 🔹 Production Deployment (Vercel, VPS)
+- 🔹 Expert in MERN Stack  
+- 🔹 Building REST APIs & Secure Auth Systems  
+- 🔹 SEO Optimized Next.js Apps  
+- 🔹 Clean UI / Responsive Designs  
+- 🔹 Production Deployment (Vercel, VPS)  
 
-💼 Available for Freelance | Remote | Full-Time
+💼 Available for Freelance | Remote | Full-Time  
 
 ---
 
@@ -131,9 +131,9 @@
 
 # 🚀 Let's Build Something Powerful
 
-⭐ Clean Code
-⭐ Scalable Architecture
-⭐ On-Time Delivery
+⭐ Clean Code  
+⭐ Scalable Architecture  
+⭐ On-Time Delivery  
 
 > "Consistency beats motivation. Show up every single day."
 
