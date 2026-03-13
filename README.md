@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Mern%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
