@@ -1,4 +1,3 @@
-
 <!-- ================= HEADER ================= -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -6,7 +5,7 @@
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Building+Scalable+Applications;Clean+Code+%7C+Scalable+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Clean+Code+%7C+Scalable+Architecture;Building+Powerful+Applications"/>
 </p>
 
 ---
@@ -39,15 +38,30 @@
 - SEO Optimized Next.js Applications  
 - Clean UI / Responsive Design  
 - Production Deployment (Vercel / VPS)  
-- Scalable Architecture & Clean Code  
+- Scalable Architecture  
 
 ---
 
-# 🔥 Daily Motivation
+# 🧠 Core Computer Science Skills
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-green?style=for-the-badge"/>
+
 </p>
+
+✔ Arrays  
+✔ Linked Lists  
+✔ Stacks & Queues  
+✔ Trees & Graphs  
+✔ Recursion  
+✔ Sorting Algorithms  
+✔ Searching Algorithms  
+✔ Time & Space Complexity  
+✔ Object-Oriented Design  
 
 ---
 
@@ -190,4 +204,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0f2027&height=120&section=footer"/>
 </p>
- 
