@@ -47,11 +47,8 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Algorithms-Advanced-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Problem%20Solving-Strong-green?style=for-the-badge"/>
 
 </p>
@@ -111,12 +108,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=react&hide_border=true"/>
 
 </p>
 
