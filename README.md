@@ -47,21 +47,14 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Algorithms-Advanced-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Problem%20Solving-Strong-green?style=for-the-badge"/>
 
 </p>
-
-✔ Arrays  
-✔ Linked Lists  
-✔ Stacks & Queues  
-✔ Trees & Graphs  
-✔ Recursion  
-✔ Sorting Algorithms  
-✔ Searching Algorithms  
-✔ Time & Space Complexity  
-✔ Object-Oriented Design  
 
 ---
 
@@ -95,26 +88,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter"/>
-</p>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,mysql"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 </p>
 
 ---
