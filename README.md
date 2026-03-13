@@ -1,11 +1,12 @@
+
 <!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20MERN%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Building+Scalable+Applications;Clean+Code+%7C+Powerful+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Building+Scalable+Applications;Clean+Code+%7C+Scalable+Architecture"/>
 </p>
 
 ---
@@ -32,24 +33,20 @@
 
 # 🧠 About Me
 
-- 🔹 MERN Stack Specialist  
-- 🔹 REST API Development  
-- 🔹 Secure Authentication Systems  
-- 🔹 SEO Optimized Next.js Applications  
-- 🔹 Clean UI & Responsive Design  
-- 🔹 Production Deployment (Vercel / VPS)  
-- 🔹 Scalable Architecture  
+- MERN Stack Specialist  
+- REST API Development  
+- Secure Authentication Systems  
+- SEO Optimized Next.js Applications  
+- Clean UI / Responsive Design  
+- Production Deployment (Vercel / VPS)  
+- Scalable Architecture & Clean Code  
 
 ---
 
 # 🔥 Daily Motivation
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming&cacheSeconds=36000"/>
-</p>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=life&cacheSeconds=36000"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=programming"/>
 </p>
 
 ---
@@ -57,20 +54,23 @@
 # 🚀 Tech Stack
 
 ## 🌐 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
 </p>
 
 ---
 
 ## ⚙ Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,js"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ---
 
 ## 🗄 Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=supabase,postgres"/>
 </p>
@@ -78,16 +78,29 @@
 ---
 
 ## 📱 Mobile Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=flutter"/>
 </p>
 
 ---
 
-# 🧑‍💻 Most Used Languages
+# 🧠 Most Used Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,postgres"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,mysql"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 </p>
 
 ---
@@ -108,21 +121,21 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=react&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=react&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🧩 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&theme=react-dark&hide_border=true&area=true"/>
@@ -173,6 +186,8 @@
 ---
 
 <!-- ================= FOOTER ================= -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0f2027&height=120&section=footer"/>
 </p>
+ 
