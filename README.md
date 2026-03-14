@@ -12,6 +12,10 @@
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge&labelColor=black" />
+</p>
 
 ---
 
@@ -84,9 +88,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
     </tr>
     <tr>
       <td align="center">⚡ <b>Performance First:</b> Obsessed with sub-second load times and optimized DSA implementations.</td>
-    </tr>
-    <tr>
-      
     </tr>
     <tr>
       <td align="center">🎯 <b>Motto:</b> "Consistency beats motivation. Show up every single day."</td>
