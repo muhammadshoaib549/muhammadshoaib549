@@ -1,174 +1,94 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2C5364&height=250&section=header&text=Shoaib%20|%20Mern%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:111111,100:00D2FF&height=280&section=header&text=Shoaib%20|%20Full%20Stack%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- ================= TYPING INTRO ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Next.js+Specialist;Flutter+App+Developer;Clean+Code+%7C+Scalable+Architecture;Building+Powerful+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Specialist;Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;AI+Engineering+Aspirant"/>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Shoaib-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 👋 Hi, I'm Shoaib
+# 🚀 Executive Summary
 
-💻 **MERN Stack Developer**  
-🚀 **Next.js | Flutter Developer**  
-🌍 **Building Scalable Web & Mobile Applications**
+I am a **Software Engineering Student** and **Full-Stack Developer** dedicated to building high-performance, scalable web and mobile applications. My expertise lies in the **MERN Stack** and **Next.js**, with a heavy focus on **Clean Architecture** and **SEO Optimization**.
 
-💼 **Available for Freelance • Remote • Full-Time**
+* 🔭 **Currently working on:** Advanced AI integration within MERN applications.
+* 🌱 **Learning:** Data Science & Machine Learning with Python.
+* 💻 **OS Preference:** Power User of **Linux Mint Cinnamon**.
+* 🎯 **Goal:** To develop intelligent systems that solve real-world problems.
 
 ---
 
-# 📄 My Resume
+# 🛠️ Technical Arsenal
 
-<p>
-<a href="YOUR_CV_LINK">
-<img src="https://img.shields.io/badge/Download%20My%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+### 💻 Development Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` |
+| **Backend** | `Node.js` `Express.js` `REST APIs` `Socket.io` |
+| **Mobile** | `Flutter` `Dart` |
+| **Database** | `MongoDB` `PostgreSQL` `Supabase` `MySQL` |
+| **Core CS** | `Data Structures (DSA)` `OOP` `Assembly (8086)` |
+
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,py,jupyter,figma,vercel,postman,docker&theme=dark" height="45px"/>
 </p>
 
 ---
 
-# 🧠 About Me
+# 📂 Featured Projects
 
-- MERN Stack Specialist  
-- REST API Development  
-- Secure Authentication Systems  
-- SEO Optimized Next.js Applications  
-- Clean UI / Responsive Design  
-- Production Deployment (Vercel / VPS)  
-- Scalable Architecture  
+### 🚲 Mian Autos
+*A Comprehensive E-commerce & Management System for bike workshops.*
+* **Tech:** Next.js, Tailwind, MongoDB.
+* **Key Feature:** Dynamic booking system and inventory tracking.
+
+### 🌿 Smart Gardening Planner (FYP)
+*An intelligent IoT-integrated system for urban gardening.*
+* **Tech:** MERN Stack, IoT Sensors, Data Visualization.
+* **Key Feature:** Real-time moisture tracking and automated scheduling.
+
+### 🛒 OmniCart
+*High-performance E-commerce platform.*
+* **Tech:** React, Node.js, Stripe Integration.
 
 ---
 
-# 🧠 Core Computer Science Skills
+# 📊 Performance Metrics
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" class="dance"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF" />
+</p>
+
+### 📈 Contribution Heatmap
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+### 🐍 The Code Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🤝 Let's Build Something Powerful
 
-## 🌐 Frontend
+I am currently available for **Freelance projects**, **Remote roles**, and **Open Source collaborations**.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" height="50px" class="dance"/>
-</p>
-
----
-
-## ⚙ Backend
+> **"Consistency is the bridge between goals and accomplishment."**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50px" class="dance"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=100&section=footer"/>
 </p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" height="50px" class="dance"/>
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="50px" class="dance"/>
-</p>
-
----
-
-# 🧰 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma,vercel&theme=dark" height="50px" class="dance"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://ghchart.rshah.org/00FF00/muhammadshoaib549?bg=000000"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shabyhere">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/923053022216">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 🚀 Let's Build Something Powerful
-
-⭐ Clean Code  
-⭐ Scalable Architecture  
-⭐ On-Time Delivery  
-
-> **Consistency beats motivation. Show up every single day.**
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0f2027&height=120&section=footer"/>
-</p>
-
-<!-- ================= BOUNCE ANIMATION ================= -->
-<style>
-@keyframes dance {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-10px);}
-  60% {transform: translateY(-5px);}
-}
-.dance {
-  display: inline-block;
-  animation: dance 2s infinite;
-}
-</style>
