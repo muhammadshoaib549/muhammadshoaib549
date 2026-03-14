@@ -45,12 +45,10 @@
 # 🧠 Core Computer Science Skills
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Strong-green?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiMwMEZGMDAiLz48L3N2Zz4=" alt="Data Structures" height="30px"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge&logo=algorithm&logoColor=white" height="30px"/>
+<img src="https://img.shields.io/badge/OOP-Expert-purple?style=for-the-badge&logo=object&logoColor=white" height="30px"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge&logo=problem&logoColor=white" height="30px"/>
 </p>
 
 ---
@@ -59,43 +57,43 @@
 
 ## 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
 </p>
 
 ---
 
 ## ⚙ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
 </p>
 
 ---
 
 ## 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,postgres"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
 </p>
 
 ---
 
 ## 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
 </p>
 
 ---
 
 # 🧰 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma,vercel"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma,vercel&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
@@ -104,11 +102,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=react&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=react&hide_border=true"/>
-
 </p>
 
 ---
@@ -116,11 +111,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/FF0000/muhammadshoaib549"/>
+<img src="https://ghchart.rshah.org/00FF00/muhammadshoaib549"/>
 </p>
 
 ---
@@ -139,16 +134,13 @@
 
 # 📫 Connect With Me
 
-<p>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/shabyhere">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://wa.me/923053022216">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -164,7 +156,18 @@
 ---
 
 <!-- ================= FOOTER ================= -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0f2027&height=120&section=footer"/>
 </p>
+
+<!-- ================= ANIMATION CSS ================= -->
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+  40% {transform: translateY(-15px);}
+  60% {transform: translateY(-7px);}
+}
+img[style*="animation: bounce"] {
+  display: inline-block;
+}
+</style>
