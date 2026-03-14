@@ -64,7 +64,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀%20CURRENTLY%20MASTERING-Next.js%2014%20%7C%20tRPC%20%7C%20Prisma-00D2FF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/🚀%20CURRENTLY%20MASTERING-Next.js%2014%20%7C%20Flutter%20%7C%20Supabase-00D2FF?style=for-the-badge&labelColor=black" />
 </div>
 
 ---
@@ -81,10 +81,16 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
       <td align="center">🛠️ <b>The Architect's Choice:</b> Specialized in the <b>SERN Stack</b> (Supabase, Express, React, Next.js).</td>
     </tr>
     <tr>
+      <td align="center">📱 <b>Mobile Expert:</b> Building cross-platform apps with <b>Flutter</b> & <b>Dart</b>.</td>
+    </tr>
+    <tr>
       <td align="center">🐧 <b>Environment:</b> Living in the terminal on <b>Linux Mint Cinnamon</b>.</td>
     </tr>
     <tr>
       <td align="center">⚡ <b>Performance First:</b> Obsessed with sub-second load times and optimized DSA implementations.</td>
+    </tr>
+    <tr>
+      <td align="center">🔌 <b>Beyond Web:</b> Experienced with <b>Proteus 8</b> (circuit simulation), <b>Cisco Packet Tracer</b> (networking), and <b>Jupyter</b> (data science).</td>
     </tr>
     <tr>
       <td align="center">🎯 <b>Motto:</b> "Consistency beats motivation. Show up every single day."</td>
@@ -100,42 +106,68 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 | Category | Tools & Technologies |
 | :---: | :--- |
 | **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Redux` |
-| **Mobile** | `Flutter` `Dart` `Java (Android)` `Kotlin` |
-| **Backend & DB** | `Node.js` `Express` `Supabase (PostgreSQL)` `MongoDB` `SQL Server` `Prisma` |
+| **Mobile** | `Flutter` `Dart` |
+| **Backend & DB** | `Node.js` `Express` `Supabase (PostgreSQL)` `SQL` `Prisma` |
 | **Languages** | `JavaScript` `TypeScript` `Dart` `Java` `Python` `C#` `C++` `Assembly (8086)` |
+| **Simulation & IoT** | `Proteus Professional 8` `Cisco Packet Tracer` |
+| **Data Science** | `Jupyter Notebook` `Python` `NumPy` `Pandas` |
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" style="margin: 0 10px;"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" style="margin: 0 10px;" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="margin: 0 10px;" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" style="margin: 0 10px;" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart" style="margin: 0 10px;" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="margin: 0 10px;" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus" style="margin: 0 10px;" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" style="margin: 0 10px;" title="C#"/>
 </p>
 
 <p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" style="margin: 0 10px;"/>
+  <!-- Frontend Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" style="margin: 0 10px;" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" style="margin: 0 10px;" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux" style="margin: 0 10px;" title="Redux"/>
 </p>
 
 <p align="center">
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" style="margin: 0 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: white; border-radius: 50%; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" style="margin: 0 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" style="margin: 0 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" style="margin: 0 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="vercel" style="margin: 0 8px; background: white; border-radius: 10px; padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" style="margin: 0 8px;"/>
+  <!-- Mobile Development (Flutter Only) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="flutter" style="margin: 0 15px;" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55" alt="dart" style="margin: 0 15px;" title="Dart"/>
+</p>
+
+<p align="center">
+  <!-- Backend & Database (Supabase + SQL Focus) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="margin: 0 10px;" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" style="margin: 0 10px;" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" style="margin: 0 10px;" title="PostgreSQL (Supabase)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="sqlserver" style="margin: 0 10px;" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Prisma"/>
+</p>
+
+<p align="center">
+  <!-- Development Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" style="margin: 0 8px;" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: white; border-radius: 50%; padding: 5px;" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" style="margin: 0 8px;" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" style="margin: 0 8px;" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" style="margin: 0 8px;" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="vercel" style="margin: 0 8px; background: white; border-radius: 10px; padding: 5px;" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" style="margin: 0 8px;" title="Docker"/>
+</p>
+
+<p align="center">
+  <!-- Data Science & Simulation Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter" style="margin: 0 8px;" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda" style="margin: 0 8px;" title="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" style="margin: 0 8px;" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" style="margin: 0 8px;" title="Pandas"/>
+  <!-- Custom Icons for Proteus and Cisco -->
+  <img src="https://img.icons8.com/fluency/48/processor.png" height="45" alt="proteus" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Proteus Professional 8"/>
+  <img src="https://img.icons8.com/fluency/48/network-card.png" height="45" alt="cisco" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Cisco Packet Tracer"/>
 </p>
 
 ---
@@ -184,11 +216,12 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>🏢 <b>Employee Management</b></h3>
-        <p><i>OOP Design Patterns with persistence</i></p>
+        <h3>📱 <b>Flutter App</b></h3>
+        <p><i>Cross-platform mobile application</i></p>
         <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pattern-Design-00D2FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         </p>
       </td>
       <td width="50%" align="center">
@@ -235,25 +268,15 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=00D2FF&title_color=00D2FF"/>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadshoaib549&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00D2FF" width="100%"/>
-</p>
-
-### 📦 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&text_color=ffffff" width="40%"/>
-</p>
-
 ---
 
 # ⚡ Weekly Development Breakdown
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-58%25-00D2FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Dart-20%25-00D2FF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-45%25-00D2FF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Dart-30%25-00D2FF?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/Java-15%25-00D2FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Python-7%25-00D2FF?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Python-10%25-00D2FF?style=for-the-badge&labelColor=black" />
 </p>
 
 ---
@@ -282,7 +305,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/></a>
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
 </div>
 
 <br/>
