@@ -45,10 +45,10 @@
 # 🧠 Core Computer Science Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiMwMEZGMDAiLz48L3N2Zz4=" alt="Data Structures" height="30px"/>
-<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge&logo=algorithm&logoColor=white" height="30px"/>
-<img src="https://img.shields.io/badge/OOP-Expert-purple?style=for-the-badge&logo=object&logoColor=white" height="30px"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge&logo=problem&logoColor=white" height="30px"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" class="dance"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" height="50px" class="dance"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## ⚙ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50px" class="dance"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" height="50px" class="dance"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 📱 Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="50px" class="dance"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@
 # 🧰 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma,vercel&theme=dark" height="50px" style="animation: bounce 2s infinite"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma,vercel&theme=dark" height="50px" class="dance"/>
 </p>
 
 <p align="center">
@@ -111,11 +111,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/00FF00/muhammadshoaib549"/>
+<img src="https://ghchart.rshah.org/00FF00/muhammadshoaib549?bg=000000"/>
 </p>
 
 ---
@@ -160,14 +160,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0f2027&height=120&section=footer"/>
 </p>
 
-<!-- ================= ANIMATION CSS ================= -->
+<!-- ================= BOUNCE ANIMATION ================= -->
 <style>
-@keyframes bounce {
+@keyframes dance {
   0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-15px);}
-  60% {transform: translateY(-7px);}
+  40% {transform: translateY(-10px);}
+  60% {transform: translateY(-5px);}
 }
-img[style*="animation: bounce"] {
+.dance {
   display: inline-block;
+  animation: dance 2s infinite;
 }
 </style>
