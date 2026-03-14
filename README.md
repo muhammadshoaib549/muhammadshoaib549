@@ -112,7 +112,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF" />
 </p>
 
-### 📈 Contribution Heatmap (Dark Mode)
+### 📈 Contribution Graph 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
 </p>
