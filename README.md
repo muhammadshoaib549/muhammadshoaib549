@@ -62,7 +62,7 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 * **Tech:** React, Node.js, Express, MongoDB.
 
 ### 🏢 Employee Management System (OOP)
-*Robust backend system focusing on core Object-Oriented principles.*
+*Robust backend system focusing on core Object-Oriented principles and data persistence.*
 * **Tech:** **Java**, File Handling, OOP Design Patterns.
 
 ### 💬 Real-time Chat App (DSA)
@@ -103,15 +103,7 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 
 # 🤝 Let's Connect
 
-### 🛠️ How I Can Help You:
-* **MERN Stack Development:** Building robust, full-stack web applications from scratch.
-* **Next.js Solutions:** Creating SEO-optimized, lightning-fast SSR & SSG websites.
-* **Mobile Apps:** Developing cross-platform mobile applications using Flutter.
-* **Database Design:** Crafting efficient SQL and NoSQL database architectures.
-* **UI/UX Prototyping:** Designing interactive and modern interfaces in Figma.
-
 <p align="left">
-<a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 </p>
 
