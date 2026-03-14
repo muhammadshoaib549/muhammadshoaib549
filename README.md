@@ -26,11 +26,14 @@
 
 # 🚀 Executive Summary
 
-I am a **Software Engineering Student** and **Full-Stack Developer** focused on building scalable, high-performance applications. I bridge the gap between complex CS fundamentals and modern web/mobile technologies.
+> **"Turning complex logic into elegant, high-performance digital reality."**
 
-* 💻 **Development Environment:** Power User of **Linux Mint Cinnamon**.
-* 🛠️ **Current Focus:** Next.js, TypeScript, and Cross-Platform Mobile Dev.
-* 🎯 **Philosophy:** "Consistency beats motivation. Show up every single day."
+I am a **Software Engineering Student** and **Full-Stack Architect** obsessed with the art of clean code. I don't just build apps; I engineer scalable ecosystems. By merging deep **CS Fundamentals** with modern **Next.js & Supabase** stacks, I deliver products that are as robust on the backend as they are beautiful on the frontend.
+
+* 🛠️ **The Architect's Choice:** Specialized in the **SERN Stack** (Supabase, Express, React, Next.js).
+* 🐧 **Environment:** Living in the terminal on **Linux Mint Cinnamon**.
+* ⚡ **Performance First:** Obsessed with sub-second load times and optimized DSA implementations.
+* 🎯 **Motto:** "Code is poetry; write it with intention."
 
 ---
 
@@ -39,14 +42,14 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 ### 💻 Development Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Web Development** | `React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
-| **Mobile & App** | `Flutter` `Dart` `Java (OOP)` |
-| **Backend & DB** | `Node.js` `Supabase` `SQL (SSMS)` |
-| **Data Science** | `Python` |
+| **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
+| **Mobile** | `Flutter` `Dart` `Java (OOP)` |
+| **Backend & DB** | `Node.js` `Express` `Supabase (PostgreSQL)` `SQL Server` |
+| **Logic & Data** | `Python` `C#` `Assembly (8086)` |
 
 ### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,py,jupyter,figma,vercel&theme=dark" height="45px"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,py,supabase,nextjs,figma,vercel&theme=dark" height="50px"/>
 </p>
 
 ---
@@ -76,14 +79,12 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
       <p><i>Robust backend system focusing on OOP Design Patterns and persistence.</i></p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Pattern-Design-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/File%20Handling-Gray?style=flat-square" />
     </td>
     <td width="50%" style="vertical-align: top;">
       <h3>💬 Real-time Chat (DSA)</h3>
       <p><i>Messaging application optimized using efficient data structures.</i></p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/DSA-Optimized-red?style=flat-square" />
-      <img src="https://img.shields.io/badge/Networking-Purple?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -98,7 +99,6 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
       <p><i>Seamless UI/UX design for a modern ride-sharing experience.</i></p>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/UI%2FUX-Design-cyan?style=flat-square" />
-      <img src="https://img.shields.io/badge/Prototyping-Pink?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -117,13 +117,19 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-### 🐍 The Code Snake
+---
+
+# ⚡ Hiring Status
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D2FF?style=for-the-badge" />
 </p>
+
+I am currently open to **Freelance Projects**, **Remote Opportunities**, and **Technical Collaborations**. If you need a developer who understands both the "How" and the "Why" of software engineering, let's talk.
+
+* 🌍 **Freelance:** Available for Web & Mobile builds.
+* 🏠 **Remote:** Ready to join engineering teams worldwide.
+* 📨 **Contact:** Best reached via [WhatsApp](https://wa.me/923053022216) or [LinkedIn](https://www.linkedin.com/in/shabyhere).
 
 ---
 
