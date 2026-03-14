@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:111111,100:00D2FF&height=280&section=header&text=Shoaib%20|%20Mern%20Stack%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:111111,100:00D2FF&height=280&section=header&text=Shoaib%20|%20Full%20Stack%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Specialist;Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Specialist+(SERN);Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver"/>
 </p>
 
 <p align="center">
@@ -110,6 +110,19 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF" />
+</p>
+
+### 📈 Contribution Heatmap (Dark Mode)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+### 🐍 The Code Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
