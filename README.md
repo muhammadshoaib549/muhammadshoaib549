@@ -16,10 +16,10 @@
 # 🧠 Core Computer Science Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" class="dance"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" />
 </p>
 
 ---
@@ -110,15 +110,3 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=100&section=footer"/>
 </p>
-
-<style>
-@keyframes dance {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-10px);}
-  60% {transform: translateY(-5px);}
-}
-.dance {
-  display: inline-block;
-  animation: dance 2s infinite;
-}
-</style>
