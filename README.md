@@ -116,11 +116,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/36BCF7/muhammadshoaib549"/>
+<img src="https://ghchart.rshah.org/FF0000/muhammadshoaib549"/>
 </p>
 
 ---
