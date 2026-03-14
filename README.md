@@ -53,29 +53,56 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 
 # 📂 Featured Projects
 
-### 🚲 Mian Autos
-*A Comprehensive E-commerce & Management System for bike workshops.*
-* **Tech:** Next.js, Tailwind, MongoDB.
-
-### 🛒 OmniCart
-*High-performance, scalable e-commerce platform with a focus on seamless UX.*
-* **Tech:** React, Node.js, Express, MongoDB.
-
-### 🏢 Employee Management System (OOP)
-*Robust backend system focusing on core Object-Oriented principles and data persistence.*
-* **Tech:** **Java**, File Handling, OOP Design Patterns.
-
-### 💬 Real-time Chat App (DSA)
-*Messaging application optimized using efficient data structures.*
-* **Tech:** Java, Data Structures & Algorithms.
-
-### 🏪 Super Market Management System
-*Full-scale inventory and sales management system using relational databases.*
-* **Tech:** C#, SQL (MS SQL Server / SSMS).
-
-### 🚗 RideEase Traveling App
-*Seamless UI/UX design for a modern ride-sharing experience.*
-* **Tech:** Figma (UI/UX Design).
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🚲 Mian Autos</h3>
+      <p><i>A Comprehensive E-commerce & Management System for bike workshops.</i></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🛒 OmniCart</h3>
+      <p><i>High-performance, scalable e-commerce platform with a focus on seamless UX.</i></p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🏢 Employee Management (OOP)</h3>
+      <p><i>Robust backend system focusing on OOP Design Patterns and persistence.</i></p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pattern-Design-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/File%20Handling-Gray?style=flat-square" />
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>💬 Real-time Chat (DSA)</h3>
+      <p><i>Messaging application optimized using efficient data structures.</i></p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/DSA-Optimized-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/Networking-Purple?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🏪 Super Market System</h3>
+      <p><i>Full-scale inventory and sales management using relational databases.</i></p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/SSMS-Dark-black?style=flat-square" />
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h3>🚗 RideEase App</h3>
+      <p><i>Seamless UI/UX design for a modern ride-sharing experience.</i></p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI%2FUX-Design-cyan?style=flat-square" />
+      <img src="https://img.shields.io/badge/Prototyping-Pink?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
