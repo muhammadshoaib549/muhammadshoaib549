@@ -65,7 +65,7 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
     <td width="50%" style="vertical-align: top;">
       <h3>🛒 OmniCart</h3>
       <p><i>High-performance, scalable e-commerce platform with a focus on seamless UX.</i></p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
