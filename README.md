@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(Java)-Expert-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" />
 </p>
 
@@ -40,7 +40,7 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Web Development** | `React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
-| **Mobile & App** | `Flutter` `Dart` `Java` |
+| **Mobile & App** | `Flutter` `Dart` `Java (OOP)` |
 | **Backend & DB** | `Node.js` `Supabase` `SQL (SSMS)` |
 | **Data Science** | `Python` |
 
@@ -62,8 +62,8 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 * **Tech:** React, Node.js, Express, MongoDB.
 
 ### 🏢 Employee Management System (OOP)
-*Robust backend system focusing on core Object-Oriented principles.*
-* **Tech:** C++, File Handling, OOP Design Patterns.
+*Robust backend system focusing on core Object-Oriented principles and data persistence.*
+* **Tech:** **Java**, File Handling, OOP Design Patterns.
 
 ### 💬 Real-time Chat App (DSA)
 *Messaging application optimized using efficient data structures.*
@@ -86,7 +86,7 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF" />
 </p>
 
-### 📈 Contribution Heatmap
+### 📈 Contribution Heatmap (Dark Mode)
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
 </p>
