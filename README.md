@@ -60,14 +60,14 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
       <p><i>A Comprehensive E-commerce & Management System for bike workshops.</i></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" style="vertical-align: top;">
       <h3>🛒 OmniCart</h3>
       <p><i>High-performance, scalable e-commerce platform with a focus on seamless UX.</i></p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -89,10 +89,9 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
   <tr>
     <td width="50%" style="vertical-align: top;">
       <h3>🏪 Super Market System</h3>
-      <p><i>Full-scale inventory and sales management using relational databases.</i></p>
+      <p><i>Full-scale inventory and sales management system using relational databases.</i></p>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/SSMS-Dark-black?style=flat-square" />
     </td>
     <td width="50%" style="vertical-align: top;">
       <h3>🚗 RideEase App</h3>
@@ -111,19 +110,6 @@ I am a **Software Engineering Student** and **Full-Stack Developer** focused on 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF" />
-</p>
-
-### 📈 Contribution Heatmap (Dark Mode)
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-### 🐍 The Code Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </picture>
 </p>
 
 ---
