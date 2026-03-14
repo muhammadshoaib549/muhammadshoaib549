@@ -3,25 +3,34 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Specialist;Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;AI+Engineering+Aspirant"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Specialist;Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver"/>
 </p>
 
 <p align="center">
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Shoaib-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🧠 Core Computer Science Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-Expert-purple?style=for-the-badge" class="dance"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" class="dance"/>
 </p>
 
 ---
 
 # 🚀 Executive Summary
 
-I am a **Software Engineering Student** and **Full-Stack Developer** dedicated to building high-performance, scalable web and mobile applications. My expertise lies in the **MERN Stack** and **Next.js**, with a heavy focus on **Clean Architecture** and **SEO Optimization**.
+I am a **Software Engineering Student** and **Full-Stack Developer** focused on building scalable, high-performance applications. I bridge the gap between complex CS fundamentals and modern web/mobile technologies.
 
-* 🔭 **Currently working on:** Advanced AI integration within MERN applications.
-* 🌱 **Learning:** Data Science & Machine Learning with Python.
-* 💻 **OS Preference:** Power User of **Linux Mint Cinnamon**.
-* 🎯 **Goal:** To develop intelligent systems that solve real-world problems.
+* 💻 **Development Environment:** Power User of **Linux Mint Cinnamon**.
+* 🛠️ **Current Focus:** Next.js, TypeScript, and Cross-Platform Mobile Dev.
+* 🎯 **Philosophy:** "Consistency beats motivation. Show up every single day."
 
 ---
 
@@ -30,15 +39,14 @@ I am a **Software Engineering Student** and **Full-Stack Developer** dedicated t
 ### 💻 Development Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | `React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux Toolkit` |
-| **Backend** | `Node.js` `Express.js` `REST APIs` `Socket.io` |
-| **Mobile** | `Flutter` `Dart` |
-| **Database** | `MongoDB` `PostgreSQL` `Supabase` `MySQL` |
-| **Core CS** | `Data Structures (DSA)` `OOP` `Assembly (8086)` |
+| **Web Development** | `React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` |
+| **Mobile & App** | `Flutter` `Dart` `Java` |
+| **Backend & DB** | `Node.js` `Supabase` `SQL (SSMS)` |
+| **Data Science** | `Python` |
 
-### 🔧 Tools & DevOps
+### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,py,jupyter,figma,vercel,postman,docker&theme=dark" height="45px"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,py,jupyter,figma,vercel&theme=dark" height="45px"/>
 </p>
 
 ---
@@ -48,20 +56,30 @@ I am a **Software Engineering Student** and **Full-Stack Developer** dedicated t
 ### 🚲 Mian Autos
 *A Comprehensive E-commerce & Management System for bike workshops.*
 * **Tech:** Next.js, Tailwind, MongoDB.
-* **Key Feature:** Dynamic booking system and inventory tracking.
-
-### 🌿 Smart Gardening Planner (FYP)
-*An intelligent IoT-integrated system for urban gardening.*
-* **Tech:** MERN Stack, IoT Sensors, Data Visualization.
-* **Key Feature:** Real-time moisture tracking and automated scheduling.
 
 ### 🛒 OmniCart
-*High-performance E-commerce platform.*
-* **Tech:** React, Node.js, Stripe Integration.
+*High-performance, scalable e-commerce platform with a focus on seamless UX.*
+* **Tech:** React, Node.js, Express, MongoDB.
+
+### 🏢 Employee Management System (OOP)
+*Robust backend system focusing on core Object-Oriented principles.*
+* **Tech:** C++, File Handling, OOP Design Patterns.
+
+### 💬 Real-time Chat App (DSA)
+*Messaging application optimized using efficient data structures.*
+* **Tech:** Java, Data Structures & Algorithms.
+
+### 🏪 Super Market Management System
+*Full-scale inventory and sales management system using relational databases.*
+* **Tech:** C#, SQL (MS SQL Server / SSMS).
+
+### 🚗 RideEase Traveling App
+*Seamless UI/UX design for a modern ride-sharing experience.*
+* **Tech:** Figma (UI/UX Design).
 
 ---
 
-# 📊 Performance Metrics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF" />
@@ -83,12 +101,24 @@ I am a **Software Engineering Student** and **Full-Stack Developer** dedicated t
 
 ---
 
-# 🤝 Let's Build Something Powerful
+# 🤝 Let's Connect
 
-I am currently available for **Freelance projects**, **Remote roles**, and **Open Source collaborations**.
-
-> **"Consistency is the bridge between goals and accomplishment."**
+<p align="left">
+<a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=100&section=footer"/>
 </p>
+
+<style>
+@keyframes dance {
+  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+  40% {transform: translateY(-10px);}
+  60% {transform: translateY(-5px);}
+}
+.dance {
+  display: inline-block;
+  animation: dance 2s infinite;
+}
+</style>
