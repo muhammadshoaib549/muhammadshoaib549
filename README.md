@@ -278,37 +278,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 ---
 
-# 🏙️ Explore My Code Cities
-
-<div align="center">
-  <p><i>Har repository ek alag city! Branches = highways, Commits = intersections</i></p>
-  
-  <a href="https://anvaka.github.io/city-roads/?q=muhammadshoaib549">
-    <img src="https://img.shields.io/badge/🏙️%20View%20All%20My%20Repos%20City-00D2FF?style=for-the-badge&logo=city&logoColor=white&labelColor=black" />
-  </a>
-  
-  <br/><br/>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://anvaka.github.io/city-roads/?q=muhammadshoaib549%2Fmian-autos">
-          <img src="https://img.shields.io/badge/Mian%20Autos%20City-00D2FF?style=flat-square&logo=city&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://anvaka.github.io/city-roads/?q=muhammadshoaib549%2Fomnicart">
-          <img src="https://img.shields.io/badge/OmniCart%20City-00D2FF?style=flat-square&logo=city&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <p>🔍 <b>Click any link to explore the city map of that repository!</b></p>
-</div>
-
----
-
 # ⚡ Hiring Status
 
 <div align="center">
@@ -351,5 +320,5 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 <div align="center">
   <h3>🔥 Thanks for visiting! Let's build something amazing together. 🔥</h3>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Keep%20Coding%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Stay%20Happy%20🚀&fowntSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
