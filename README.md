@@ -12,10 +12,6 @@
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge&labelColor=black" />
-</p>
 
 ---
 
@@ -25,7 +21,7 @@
   
   ![DSA](https://img.shields.io/badge/Data_Structures-Advanced-00D2FF?style=for-the-badge&labelColor=black)
   ![Algorithms](https://img.shields.io/badge/Algorithms-Advanced-00D2FF?style=for-the-badge&labelColor=black)
-  ![OOP](https://img.shields.io/badge/OOP_(Java)-Expert-00D2FF?style=for-the-badge&labelColor=black)
+  ![OOP](https://img.shields.io/badge/OOP_-Expert-00D2FF?style=for-the-badge&labelColor=black)
   ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Strong-00D2FF?style=for-the-badge&labelColor=black)
   
 </div>
@@ -90,7 +86,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
       <td align="center">⚡ <b>Performance First:</b> Obsessed with sub-second load times and optimized DSA implementations.</td>
     </tr>
     <tr>
-      <td align="center">🔌 <b>Beyond Web:</b> Experienced with <b>Proteus 8</b> (circuit simulation), <b>Cisco Packet Tracer</b> (networking), and <b>Jupyter</b> (data science).</td>
+      
     </tr>
     <tr>
       <td align="center">🎯 <b>Motto:</b> "Consistency beats motivation. Show up every single day."</td>
@@ -305,7 +301,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/></a>
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
+  <a href="mailto:your.muhammadshoaibshahid4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
 </div>
 
 <br/>
