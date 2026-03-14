@@ -12,12 +12,7 @@
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge&labelColor=black" />
-</p>
 
----
 
 # 🧠 Core Computer Science Skills
 
@@ -263,17 +258,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 📈 Contribution Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=00D2FF&title_color=00D2FF"/>
-</p>
-
----
-
-# ⚡ Weekly Development Breakdown
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-45%25-00D2FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Dart-30%25-00D2FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Java-15%25-00D2FF?style=for-the-badge&labelColor=black" />
-  <img src="https://img.shields.io/badge/Python-10%25-00D2FF?style=for-the-badge&labelColor=black" />
 </p>
 
 ---
