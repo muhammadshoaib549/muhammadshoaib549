@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Structures-Advanced-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(Java)-Expert-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20-Expert-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Problem%20Solving-Strong-red?style=for-the-badge" />
 </p>
 
