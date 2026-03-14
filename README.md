@@ -320,5 +320,5 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 <div align="center">
   <h3>🔥 Thanks for visiting! Let's build something amazing together. 🔥</h3>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Keep%20Coding%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Stay%20Happy%20🚀&fowntSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
