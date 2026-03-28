@@ -118,7 +118,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: #000000; border-radius: 10px; padding: 5px;" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: #000000; border: 1px solid #333; border-radius: 10px; padding: 5px;" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" style="margin: 0 10px;" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" style="margin: 0 10px;" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dotnet" style="margin: 0 10px;" title=".NET"/>
@@ -141,11 +141,11 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="margin: 0 10px;" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="margin: 0 10px; background: #000000; border-radius: 10px; padding: 5px;" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="margin: 0 10px; background: #000000; border: 1px solid #333; border-radius: 10px; padding: 5px;" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" style="margin: 0 10px;" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" style="margin: 0 10px;" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="sqlserver" style="margin: 0 10px;" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma" style="margin: 0 10px; background: #000000; border-radius: 10px; padding: 5px;" title="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma" style="margin: 0 10px; background: #000000; border: 1px solid #333; border-radius: 10px; padding: 5px;" title="Prisma"/>
 </p>
 
 <br/>
@@ -154,11 +154,11 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" style="margin: 0 8px;" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: #000000; border-radius: 50%; padding: 5px;" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: #000000; border: 1px solid #333; border-radius: 50%; padding: 5px;" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" style="margin: 0 8px;" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" style="margin: 0 8px;" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" style="margin: 0 8px;" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="vercel" style="margin: 0 8px; background: #000000; border-radius: 10px; padding: 5px;" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="vercel" style="margin: 0 8px; background: #000000; border: 1px solid #333; border-radius: 10px; padding: 5px;" title="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" style="margin: 0 8px;" title="Docker"/>
 </p>
 
@@ -297,7 +297,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/muhammadshoaib549?bg=000000" alt="Shoaib's Contribution Chart"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/contribution-grid?user=muhammadshoaib549&theme=dark&hide_border=true" alt="Shoaib's Contribution Grid"/>
 </p>
 
 <br/>
