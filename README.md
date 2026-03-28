@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:111111,100:00D2FF&height=280&section=header&text=Shoaib%20|%20Full%20Stack%20Dev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Excellence&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:00D2FF&height=300&section=header&text=Shoaib%20|%20Full%20Stack%20Dev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Building%20Digital%20Excellence%20⚡&descAlignY=56&descAlign=50&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Architect+(SERN);Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+Architect+(SERN+Stack);Next.js+%2B+TypeScript+Expert;Flutter+%26+Dart+App+Developer;Clean+Code+%7C+Scalable+Systems;DSA+%7C+OOP+%7C+System+Design;Open+Source+Enthusiast+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=Profile+Views&color=00D2FF&style=for-the-badge&labelColor=black" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/muhammadshoaib549?label=Followers&style=for-the-badge&color=00D2FF&labelColor=black" alt="followers"/>
 </p>
 
 <br/>
@@ -92,7 +97,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 | **Frontend** | `React.js` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Framer Motion` &nbsp; `.NET` &nbsp; `Java Swing` &nbsp; `Flutter` |
 | **Mobile** | `Flutter` &nbsp; `Dart` |
 | **Backend & DB** | `Node.js` &nbsp; `Express` &nbsp; `Supabase (PostgreSQL)` &nbsp; `SQL` &nbsp; `Prisma` |
-| **Languages** | `JavaScript` &nbsp; `TypeScript` &nbsp; `Dart` &nbsp; `Java` &nbsp; `Python` &nbsp; `C#` &nbsp; `C++` &nbsp; `Assembly (8086)` |
+| **Languages** | `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `Dart` &nbsp; `Java` &nbsp; `Python` &nbsp; `C#` &nbsp; `C++` &nbsp; `Assembly (8086)` |
 | **Simulation & IoT** | `Proteus Professional 8` &nbsp; `Cisco Packet Tracer` |
 | **Data Science** | `Jupyter Notebook` &nbsp; `Python` &nbsp; `NumPy` &nbsp; `Pandas` |
 
@@ -103,10 +108,13 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🔧 Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" style="margin: 0 10px;" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" style="margin: 0 10px;" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" style="margin: 0 10px;" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" style="margin: 0 10px;" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="margin: 0 10px;" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" style="margin: 0 10px;" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart" style="margin: 0 10px;" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" style="margin: 0 10px;" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="margin: 0 10px;" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus" style="margin: 0 10px;" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" style="margin: 0 10px;" title="C#"/>
@@ -279,10 +287,32 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <br/>
 
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshoaib549&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&langs_count=8"/>
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadshoaib549&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</p>
+
+<br/>
+
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=00D2FF&title_color=00D2FF"/>
+</p>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadshoaib549/muhammadshoaib549/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 <br/>
@@ -339,13 +369,8 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:0077aa,100:000000&height=180&section=footer&text=Let's%20Build%20Something%20Amazing%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
 
----
-
-<div align="center">
-  <h3>🔥 Thanks for visiting! Let's build something amazing together. 🔥</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Stay%20Happy%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
