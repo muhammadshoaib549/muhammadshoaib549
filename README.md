@@ -297,7 +297,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/muhammadshoaib549" alt="Contribution Grid" />
+  <img src="https://ghchart.rshah.org/00D2FF/muhammadshoaib549" alt="Contribution Grid" />
 </p>
 
 <br/>
