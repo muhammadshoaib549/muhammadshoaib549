@@ -283,7 +283,9 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 # 🤝 Let's Connect
 
 <div align="center">
-  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/></a>
+<a href="https://github.com/muhammadshoaib549/Shoaib_CV/blob/main/Shoaib_CV.pdf?raw=true">
+  <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/>
+</a>
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
   <a href="mailto:muhammadshoaibshahid4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
