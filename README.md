@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=#FF0000&center=true&vCenter=true&width=700&lines=Full+Stack+Architect+(SERN);Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=#00D2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Architect+(SERN);Next.js+%2B+TypeScript+Expert;Flutter+App+Developer;Clean+Code+Architect;Problem+Solver;Open+Source+Enthusiast"/>
 </p>
 
 <p align="center">
