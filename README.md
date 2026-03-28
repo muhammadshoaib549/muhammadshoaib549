@@ -284,7 +284,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <div align="center">
 <a href="https://github.com/muhammadshoaib549/Shoaib_CV/blob/main/Shoaib,s%20CV.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/>
+ 
 </a>
   <img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/>
 </a>
