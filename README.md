@@ -12,7 +12,6 @@
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=PROFILE+VIEWS&color=00D2FF&style=for-the-badge&labelColor=black" />
 </p>
@@ -111,7 +110,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" style="margin: 0 10px;" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="margin: 0 10px;" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" style="margin: 0 10px;" title="TypeScript"/>
@@ -122,7 +120,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 </p>
 
 <p align="center">
-  <!-- Frontend Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" style="margin: 0 10px;" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" style="margin: 0 10px;" title="Tailwind CSS"/>
@@ -130,13 +127,11 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 </p>
 
 <p align="center">
-  <!-- Mobile Development (Flutter Only) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="flutter" style="margin: 0 15px;" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55" alt="dart" style="margin: 0 15px;" title="Dart"/>
 </p>
 
 <p align="center">
-  <!-- Backend & Database (Supabase + SQL Focus) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="margin: 0 10px;" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" style="margin: 0 10px;" title="Supabase"/>
@@ -146,7 +141,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 </p>
 
 <p align="center">
-  <!-- Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" style="margin: 0 8px;" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: white; border-radius: 50%; padding: 5px;" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" style="margin: 0 8px;" title="VS Code"/>
@@ -157,12 +151,10 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 </p>
 
 <p align="center">
-  <!-- Data Science & Simulation Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter" style="margin: 0 8px;" title="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda" style="margin: 0 8px;" title="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" style="margin: 0 8px;" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" style="margin: 0 8px;" title="Pandas"/>
-  <!-- Custom Icons for Proteus and Cisco -->
   <img src="https://img.icons8.com/fluency/48/processor.png" height="45" alt="proteus" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Proteus Professional 8"/>
   <img src="https://img.icons8.com/fluency/48/network-card.png" height="45" alt="cisco" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Cisco Packet Tracer"/>
 </p>
@@ -267,6 +259,26 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 ---
 
+# 📊 GitHub Activity Snapshot (Your Image)
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="left">
+        <h3>Activity Overview</h3>
+        <p>Contributed to <b>torvalds/linux</b>, <b>torvalds/GuitarPedal</b>, and others...</p>
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF&include_all_commits=true" width="100%"/>
+      </td>
+      <td width="40%" align="center">
+        <h3>Activity Graph</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadshoaib549&theme=tokyonight" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 # ⚡ Weekly Development Breakdown
 
 <p align="center">
@@ -282,13 +294,10 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <div align="center">
   <p><i>Har repository ek alag city! Branches = highways, Commits = intersections</i></p>
-  
   <a href="https://anvaka.github.io/city-roads/?q=muhammadshoaib549">
     <img src="https://img.shields.io/badge/🏙️%20View%20All%20My%20Repos%20City-00D2FF?style=for-the-badge&logo=city&logoColor=white&labelColor=black" />
   </a>
-  
   <br/><br/>
-  
   <table>
     <tr>
       <td align="center">
@@ -303,7 +312,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
       </td>
     </tr>
   </table>
-  
   <p>🔍 <b>Click any link to explore the city map of that repository!</b></p>
 </div>
 
@@ -313,9 +321,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D2FF?style=for-the-badge&labelColor=black" />
-  
   <br/><br/>
-  
   <table>
     <tr>
       <td align="center">🌍 <b>Freelance:</b> Available for Web & Mobile builds</td>
@@ -339,17 +345,12 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 <br/>
 
 <div align="center">
-  
-  ### 💡 "Consistency beats motivation. Show up every single day."
-  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
-  
 </div>
 
 ---
 
 <div align="center">
   <h3>🔥 Thanks for visiting! Let's build something amazing together. 🔥</h3>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:000000&height=150&section=footer&text=Stay%20Happy%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
