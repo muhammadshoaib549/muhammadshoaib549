@@ -245,33 +245,24 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity Snapshot
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshoaib549&theme=tokyonight&hide_border=true&background=000000&sideLabels=00D2FF&stroke=00D2FF&currStreakLabel=00D2FF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=0d1117&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=00D2FF&title_color=00D2FF"/>
 </div>
 
-### 📈 Contribution Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=00D2FF&line=00D2FF&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=00D2FF&title_color=00D2FF"/>
-</p>
-
----
-
-# 📊 GitHub Activity Snapshot (Image Reference)
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td width="60%" align="left">
-        <h3>Activity Overview</h3>
-        <p>Contributed to <b>torvalds/linux</b>, <b>torvalds/GuitarPedal</b>, and others...</p>
+        <b>📂 Activity Overview</b><br/>
         <img src="https://github-readme-stats.vercel.app/api?username=muhammadshoaib549&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00D2FF&icon_color=00D2FF&include_all_commits=true" width="100%"/>
       </td>
       <td width="40%" align="center">
-        <h3>Activity Graph</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadshoaib549&theme=tokyonight" width="100%"/>
+        <b>🎯 Contribution Focus</b><br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadshoaib549&theme=tokyonight" width="100%"/>
       </td>
     </tr>
   </table>
@@ -312,7 +303,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
       </td>
     </tr>
   </table>
-  <p>🔍 <b>Click any link to explore the city map of that repository!</b></p>
 </div>
 
 ---
@@ -336,7 +326,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 # 🤝 Let's Connect
 
 <div align="center">
-  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black"/></a>
   <a href="https://wa.me/923053022216"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a>
   <a href="https://www.linkedin.com/in/shabyhere"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
   <a href="mailto:muhammadshoaibshahid4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"/></a>
