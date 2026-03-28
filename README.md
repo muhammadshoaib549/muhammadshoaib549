@@ -89,7 +89,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 | Category | Tools & Technologies |
 |:---:|:---|
-| **Frontend** | `React.js` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Framer Motion` &nbsp; `Redux` |
+| **Frontend** | `React.js` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Framer Motion` &nbsp; `.NET` &nbsp; `Java Swing` &nbsp; `Flutter` |
 | **Mobile** | `Flutter` &nbsp; `Dart` |
 | **Backend & DB** | `Node.js` &nbsp; `Express` &nbsp; `Supabase (PostgreSQL)` &nbsp; `SQL` &nbsp; `Prisma` |
 | **Languages** | `JavaScript` &nbsp; `TypeScript` &nbsp; `Dart` &nbsp; `Java` &nbsp; `Python` &nbsp; `C#` &nbsp; `C++` &nbsp; `Assembly (8086)` |
@@ -120,7 +120,9 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" style="margin: 0 10px; background: white; border-radius: 10px; padding: 5px;" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" style="margin: 0 10px;" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" style="margin: 0 10px;" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux" style="margin: 0 10px;" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dotnet" style="margin: 0 10px;" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java-swing" style="margin: 0 10px;" title="Java Swing"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter" style="margin: 0 10px;" title="Flutter"/>
 </p>
 
 <br/>
@@ -182,67 +184,83 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚲 Mian Autos</h3>
-      <p align="center"><i>E-commerce & Management System for bike workshops</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-      <p align="center">✅ Inventory Management &nbsp;|&nbsp; ✅ Service Booking<br/>✅ Customer Portal &nbsp;|&nbsp; ✅ Payment Integration</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 OmniCart</h3>
-      <p align="center"><i>High-performance, scalable e-commerce platform</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-      <p align="center">✅ Real-time Inventory &nbsp;|&nbsp; ✅ Cart Management<br/>✅ Order Tracking &nbsp;|&nbsp; ✅ Admin Dashboard</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Flutter App</h3>
-      <p align="center"><i>Cross-platform mobile application</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Real-time Chat</h3>
-      <p align="center"><i>DSA optimized messaging application</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DSA-Optimized-FF6B6B?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏪 Super Market System</h3>
-      <p align="center"><i>Inventory and sales management</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 RideEase App</h3>
-      <p align="center"><i>UI/UX design for ride-sharing</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/UI%2FUX-Design-00D2FF?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚲 <b>Mian Autos</b></h3>
+        <p><i>E-commerce & Management System for bike workshops</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        </p>
+        <details>
+          <summary>📋 Features</summary>
+          <ul align="left">
+            <li>Inventory Management</li>
+            <li>Service Booking System</li>
+            <li>Customer Portal</li>
+            <li>Payment Integration</li>
+          </ul>
+        </details>
+      </td>
+      <td width="50%" align="center">
+        <h3>🛒 <b>OmniCart</b></h3>
+        <p><i>High-performance, scalable e-commerce platform</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        </p>
+        <details>
+          <summary>📋 Features</summary>
+          <ul align="left">
+            <li>Real-time Inventory</li>
+            <li>Cart Management</li>
+            <li>Order Tracking</li>
+            <li>Admin Dashboard</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📱 <b>Flutter App</b></h3>
+        <p><i>Cross-platform mobile application</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>💬 <b>Real-time Chat</b></h3>
+        <p><i>DSA optimized messaging application</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/DSA-Optimized-FF6B6B?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏪 <b>Super Market System</b></h3>
+        <p><i>Inventory and sales management</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🚗 <b>RideEase App</b></h3>
+        <p><i>UI/UX design for ride-sharing</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/UI%2FUX-Design-00D2FF?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
