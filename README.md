@@ -309,11 +309,13 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <br/>
 
-### 🐍 Contribution Snake
+### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadshoaib549/muhammadshoaib549/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://ghchart.rshah.org/00D2FF/muhammadshoaib549" alt="Shoaib's Contribution Chart"/>
 </p>
+
+
 
 <br/>
 
