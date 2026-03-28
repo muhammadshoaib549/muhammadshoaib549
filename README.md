@@ -312,7 +312,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/216e39/muhammadshoaib549" alt="Shoaib's Contribution Chart" style="background-color: #000000; border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadshoaib549&theme=github_dark" alt="Shoaib's Contribution Chart"/>
 </p>
 
 
