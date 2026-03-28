@@ -259,7 +259,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 ---
 
-# 📊 GitHub Activity Snapshot (Your Image)
+# 📊 GitHub Activity Snapshot (Image Reference)
 
 <div align="center">
   <table>
