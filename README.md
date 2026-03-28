@@ -289,7 +289,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true&border_radius=10&area_color=39d353&title_color=00D2FF"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshoaib549&bg_color=000000&color=39d353&line=39d353&point=39d353&area=true&hide_border=true&border_radius=10&area_color=39d353"/>
 </p>
 
 <br/>
@@ -297,7 +297,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D2FF/muhammadshoaib549" alt="Contribution Grid" />
+  <img src="https://ghchart.rshah.org/39d353/muhammadshoaib549" alt="Contribution Grid" />
 </p>
 
 <br/>
