@@ -12,12 +12,7 @@
   <a href="https://github.com/muhammadshoaib549"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadshoaib549&label=Profile+Views&color=00D2FF&style=for-the-badge&labelColor=black" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/muhammadshoaib549?label=Followers&style=for-the-badge&color=00D2FF&labelColor=black" alt="followers"/>
-</p>
 
-<br/>
 
 ---
 
@@ -293,14 +288,6 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <br/>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadshoaib549&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
-<br/>
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -312,7 +299,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 ### 🟩 Contribution Grid
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadshoaib549&theme=github_dark" alt="Shoaib's Contribution Chart"/>
+  <img src="https://ghchart.rshah.org/00FF41/muhammadshoaib549" alt="Shoaib's Contribution Chart"/>
 </p>
 
 
