@@ -142,7 +142,7 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
 
 <p align="center">
   <!-- Development Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" style="margin: 0 8px;" title="Git"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; filter: invert(1); background: #000; border-radius: 50%; padding: 5px;" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" style="margin: 0 8px; background: white; border-radius: 50%; padding: 5px;" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" style="margin: 0 8px;" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" style="margin: 0 8px;" title="Linux"/>
