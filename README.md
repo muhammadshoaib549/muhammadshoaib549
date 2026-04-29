@@ -157,12 +157,11 @@ I am a **Software Engineering Student** and **Full-Stack Architect** obsessed wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda" style="margin: 0 8px;" title="Anaconda"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" style="margin: 0 8px;" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" style="margin: 0 8px;" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="45" alt="colab" style="margin: 0 8px;" title="Google Colab"/>
   <!-- Custom Icons for Proteus and Cisco -->
   <img src="https://img.icons8.com/fluency/48/processor.png" height="45" alt="proteus" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Proteus Professional 8"/>
   <img src="https://img.icons8.com/fluency/48/network-card.png" height="45" alt="cisco" style="margin: 0 8px; filter: brightness(0) invert(1);" title="Cisco Packet Tracer"/>
 </p>
-
----
 
 # 📂 Featured Projects
 
